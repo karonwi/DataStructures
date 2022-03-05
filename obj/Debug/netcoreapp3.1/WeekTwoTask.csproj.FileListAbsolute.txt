@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\bin\Debug\netcoreapp3.1\WeekTwoTask.exe
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\bin\Debug\netcoreapp3.1\WeekTwoTask.deps.json
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\bin\Debug\netcoreapp3.1\WeekTwoTask.runtimeconfig.json
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\bin\Debug\netcoreapp3.1\WeekTwoTask.runtimeconfig.dev.json
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\bin\Debug\netcoreapp3.1\WeekTwoTask.dll
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\bin\Debug\netcoreapp3.1\WeekTwoTask.pdb
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.AssemblyInfo.cs
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.dll
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.pdb
+C:\Users\hp\Desktop\karonwi\Projects\week-2-karonwi\WeekTwoTask\obj\Debug\netcoreapp3.1\WeekTwoTask.genruntimeconfig.cache
